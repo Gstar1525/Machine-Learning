@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - 1
+# Exploratory Data Analysis - 2
 ***Querying Data Frame in Pandas***
 
 **Tasks** -
