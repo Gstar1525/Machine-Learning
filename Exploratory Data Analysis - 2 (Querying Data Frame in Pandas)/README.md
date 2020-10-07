@@ -1,7 +1,7 @@
 # Exploratory Data Analysis - 2
-***Querying Data Frame in Pandas***
+## Querying Data Frame in Pandas
 
-**Tasks** -
+### Tasks -
 * Projecting a column
 * Selecting rows and columns
 * Sorting
